@@ -1,0 +1,29 @@
+{
+    "author": "urtubia@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "simple-times",
+    "pebble": {
+        "capabilities": [
+            "health"
+        ],
+        "displayName": "Simple Times",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "090b3d23-726b-4a95-9ccd-c10df8735089",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.3.0"
+}
